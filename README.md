@@ -1,2 +1,2 @@
 # ssd-1b-comfyui
-for test
+node is in `ssd-1b`
