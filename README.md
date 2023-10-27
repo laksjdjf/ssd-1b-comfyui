@@ -1,4 +1,7 @@
 # ssd-1b-comfyui
+
+**This node is not need for latest comfyui**
+
 node is in `ssd-1b`.
 
 download model into `ComfyUI/models/checkpoints`.
